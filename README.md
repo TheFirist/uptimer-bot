@@ -9,7 +9,7 @@
 
 Primeiro crie seu projeto na [Replit](https://replit.com/)
 
-Abra o terminal e utilize
+Abra o terminal e utilize (Shell)
 
 ```js
 npm install express
